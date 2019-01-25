@@ -1,29 +1,27 @@
-
-
 var movies = [
   {
     id: 1,
     title: 'Patch Adams',
     desc: 'film o prawdziwym powołaniu',
-    src: '../images/patch.jpg'
+    src: 'images/patch.jpg'
   },
   {
     id: 2,
     title: 'Król Lew',
     desc: 'Film o królu sawanny',
-    src: '../images/krol.jpg'
+    src: 'images/krol.jpg'
   },
   {
     id: 3,
     title: 'Buntownik z wyboru',
     desc: 'Film psychologiczny',
-    src: '../images/buntownik.jpg'
+    src: 'images/buntownik.jpg'
   },
   {
     id: 4,
     title: 'Przebudzenia',
     desc: 'Film o walce z chorobami',
-    src: '../images/przebudzenia.jpg'
+    src: 'images/przebudzenia.jpg'
   }
 ];
 
